@@ -1,0 +1,5 @@
+Tecnologias Utilizadas:
+React Native: Para criar a interface móvel e estabelecer a comunicação com o WebSocket.
+Java (Spring Boot): Para o backend, responsável por manter as conexões WebSocket e distribuir as mensagens entre os usuários.
+WebSocket: Protocolo de comunicação bidirecional usado para permitir a troca de mensagens em tempo real entre os usuários e o servidor.
+Você está no caminho certo para aprender WebSocket e aplicá-lo em futuros projetos!
